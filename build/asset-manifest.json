@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yavanica123/student-management-system/static/css/main.e6c13ad2.css",
+    "main.js": "/Yavanica123/student-management-system/static/js/main.47f3738d.js",
+    "static/js/453.8ab44547.chunk.js": "/Yavanica123/student-management-system/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Yavanica123/student-management-system/index.html",
+    "main.e6c13ad2.css.map": "/Yavanica123/student-management-system/static/css/main.e6c13ad2.css.map",
+    "main.47f3738d.js.map": "/Yavanica123/student-management-system/static/js/main.47f3738d.js.map",
+    "453.8ab44547.chunk.js.map": "/Yavanica123/student-management-system/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.47f3738d.js"
+  ]
+}
